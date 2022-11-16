@@ -320,6 +320,23 @@
     "https://esm.sh/v96/@types/lodash@4.14.186/common/util.d.ts": "df996e25faa505f85aeb294d15ebe61b399cf1d1e49959cdfaf2cc0815c203f9",
     "https://esm.sh/v96/@types/lodash@4.14.186/index.d.ts": "f2eff8704452659641164876c1ef0df4174659ce7311b0665798ea3f556fa9ad",
     "https://esm.sh/v96/lodash-es@4.17.21": "f17c6eec40c8d45aa813f818344c6e4311b7da5de7834e673f931a73fe8d7f3c",
-    "https://esm.sh/v96/lodash-es@4.17.21/deno/lodash-es.js": "047c4a679655c8d07002ffa579c4eef049e4311866558ab745e9d3e671c6f857"
+    "https://esm.sh/v96/lodash-es@4.17.21/deno/lodash-es.js": "047c4a679655c8d07002ffa579c4eef049e4311866558ab745e9d3e671c6f857",
+    "https://esm.sh/v96/ts-pattern@4.0.6": "43c38b19783631a5d51e0dd93537adf72bd0e1b7a1afcadd460a90f8e48c30ba",
+    "https://esm.sh/v96/ts-pattern@4.0.6/deno/ts-pattern.js": "5a2aaf078d2a0a6408841b57bd9b6eb5f151b37edf6938004950aa37d5779927",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/index.d.ts": "19620a0fc85b2cc2ae91cc739fdbc5fb648859649f818f5d56f04205a3790aa4",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/internals/symbols.d.ts": "974b8945b64c30b042436a10b7a0d7e4d76ab52640472b04270005f208f2a02a",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/is-matching.d.ts": "ba863b5ec5b80f0d1b03f59235bdca2227c198f4569b691f845af5fca9620630",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/match.d.ts": "bf5841b1a99f79e961672cb45cb2e374379e8ac9945416193b35161a2135ffef",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/patterns.d.ts": "8408a2e507a57a99d5c4e2ca64a4b4d3dc368d97ec0db2778cb885a54f879813",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/BuildMany.d.ts": "9f8e726d3180d769514ddc8dabee1dd7612256fcd66d9041227d1ba0d3b53a45",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/DeepExclude.d.ts": "5c60171c7dd994fe164c8bbf3fc8ea24c38e59b28d591f5aabeff38ec88c6412",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/DistributeUnions.d.ts": "b1e7acb6b81a06fe696252316018140abcd10a2a1543b7e0a36b5581c105e1d2",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/ExtractPreciseValue.d.ts": "e13a0edaa9cdd036ee5036d855e1ca47aace39299252b2c9303bd0cf1f8f7930",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/FindSelected.d.ts": "9c4692f765aaf221d9ec7f838a4a33721d5ba4d6f2fd2c07bae98689dbd77113",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/InvertPattern.d.ts": "c9dce06c0f29ae63c26ee5c669b57fd36dd5d7ac49df5be15e6d4d1c9ae482d3",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/IsMatching.d.ts": "4356fd7459212c2f8a7deddd469e58e985b1667262e1a3693f681716681b848f",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/Match.d.ts": "cb2926442c0976fb5d690873440a7e80c05d88fdb01e2627e4d8aa28940a89d5",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/Pattern.d.ts": "776ed9e8b5363379b076877c339ad78178753c250ce4753a7a646b54c4b7e61e",
+    "https://esm.sh/v96/ts-pattern@4.0.6/dist/types/helpers.d.ts": "3c7d915b9727d73a10f0b2de67699e95c39e2f71e46d00cb509790064686363f"
   }
 }
