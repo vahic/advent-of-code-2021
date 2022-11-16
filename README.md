@@ -1,5 +1,5 @@
-# Advent of Code 2022
-https://adventofcode.com/2022
+# Advent of Code 2021
+https://adventofcode.com/2021
 
 This year, I will use Deno + Typescript.
 
