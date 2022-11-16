@@ -1,8 +1,6 @@
-import { detect as detectEOL } from "std/fs/eol.ts";
+import { use_day_1_input } from "../inputs/inputs.ts";
 
-const inputText = Deno.readTextFileSync("./day1/input.txt");
-
-const depths = inputText.split(detectEOL(inputText) ?? "").map((s) => parseInt(s));
+const depths = use_day_1_input()
 
 const {increases} = depths.reduce(
   (state, depth) => ({
