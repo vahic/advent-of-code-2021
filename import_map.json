@@ -1,6 +1,7 @@
 {
   "imports": {
-    "std/": "https://deno.land/std@0.164.0/"
+    "std/": "https://deno.land/std@0.164.0/",
+    "lodash": "https://esm.sh/v96/lodash-es@4.17.21"
   },
   "scopes": {}
 }
